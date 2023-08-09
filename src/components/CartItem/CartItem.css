@@ -1,0 +1,26 @@
+.list-cart {
+  padding: 1rem;
+  list-style: none;
+  /* width: 25rem; */
+}
+
+.list-cart button{
+  position: absolute;
+  color: red;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.item-list img {
+  width: 5rem;
+  height: 5rem;
+}
+
+.item-list-title {
+  /* white-space: nowrap; 
+  width: 10em; 
+  overflow: hidden;
+  text-overflow: ellipsis; */
+  font-size: 10px; 
+}
